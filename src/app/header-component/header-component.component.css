@@ -1,0 +1,31 @@
+.header {
+    background-color: #f1f1f1;
+    max-width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.highlight {
+    background-color: #ffff00 !important;
+}
+
+.contenedor_boton {
+    
+    text-align: left;
+}
+
+.boton_amarillo {
+    background-color: #ffff00;
+    background-image: linear-gradient(to right, #ffff00, #f1f1f1);
+    border-radius: 50px;
+    margin: 0 3px;
+    
+}
+
+.boton_gris {
+    background-color: #f1f1f1;
+    border-radius: 50px;
+    margin: 0 3px;
+}
